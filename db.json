@@ -1,0 +1,63 @@
+{
+  "goals": [
+    {
+      "country": {
+        "translations": {
+          "br": "Albânia"
+        },
+        "flag": "https://flagcdn.com/al.svg"
+      },
+      "spot": "Lagos",
+      "date": "07/2024",
+      "id": "bb6d93a0-a3ed-11ec-b039-6759ee6e51c6",
+      "countryInfo": "Albânia"
+    },
+    {
+      "country": {
+        "translations": {
+          "br": "Fiji"
+        },
+        "flag": "https://flagcdn.com/fj.svg"
+      },
+      "spot": "praias",
+      "date": "09/2023",
+      "id": "c7be5900-a3ed-11ec-a470-c9b14f977e2c",
+      "countryInfo": "Fiji"
+    },
+    {
+      "country": {
+        "translations": {
+          "br": "Estados Unidos"
+        },
+        "flag": "https://flagcdn.com/us.svg"
+      },
+      "spot": "Central Park",
+      "date": "09/2022",
+      "id": "db8fbe10-a3ed-11ec-ba8f-09cdfd3bab40",
+      "countryInfo": "Estados Unidos"
+    },
+    {
+      "country": {
+        "translations": {
+          "br": "França"
+        },
+        "flag": "https://flagcdn.com/fr.svg"
+      },
+      "spot": "arco do triunfo",
+      "date": "04/2029",
+      "id": "fc4d8c40-a3ed-11ec-8daa-73745ae480f6"
+    },
+    {
+      "country": {
+        "translations": {
+          "br": "Alemanha"
+        },
+        "flag": "https://flagcdn.com/de.svg"
+      },
+      "spot": "obelisco",
+      "date": "02/2022",
+      "id": "582beb61-a3ee-11ec-bcfa-dff316d52f42",
+      "countryInfo": "Alemanha"
+    }
+  ]
+}
